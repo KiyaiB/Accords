@@ -49,7 +49,7 @@ DEBUG = os.environ.get('DEBUG', True)
 
 DEBUG = True
 
-ALLOWED_HOSTS = config('ALLOWED_HOSTS', cast=Csv())
+ALLOWED_HOSTS = config('ALLOWED_HOSTS', default='127.0.0.1', cast=Csv())
 # Application definition
 
 INSTALLED_APPS = [
