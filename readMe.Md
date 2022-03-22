@@ -39,7 +39,7 @@ Set-up your database User, Password,Host then Migrate
 
 #### Now Migrate
      
-     python manage.py migrate
+      python manage.py migrate
 
 #### Run the Application
 
@@ -47,7 +47,7 @@ Set-up your database User, Password,Host then Migrate
 
 #### Testing the Application
 
-   python manage.py test
+    python manage.py test
 
 Open the application on your browser
 
