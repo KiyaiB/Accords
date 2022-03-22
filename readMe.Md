@@ -40,4 +40,8 @@ Set-up your database User, Password,Host then Migrate
 #### Now Migrate
      
      python manage.py migrate
-     
+
+#### Run the Application
+
+    python manage.py runserver
+    
