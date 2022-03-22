@@ -22,4 +22,8 @@ This is a web application that allows users to view posted projects and their de
 #### Navigate to the Cloned Folder and install the Requirements
       
       cd Awwards  pip install -r requirements.txt
-      
+
+#### Install and activate virtual environment
+     
+     python3 -m venv virtual - source virtual/bin/activate
+
