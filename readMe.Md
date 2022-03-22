@@ -44,4 +44,10 @@ Set-up your database User, Password,Host then Migrate
 #### Run the Application
 
     python manage.py runserver
-    
+
+#### Testing the Application
+
+   python manage.py test
+
+Open the application on your browser
+
