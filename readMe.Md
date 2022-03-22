@@ -13,3 +13,8 @@ This is a web application that allows users to view posted projects and their de
 * Search for projects by different names.
 * Rate a project according to usability, content and design.
 * Update profile.
+
+## Setup and Installation
+#### Clone the repo
+       
+       git clone https://github.com/KiyaiB/Accords.git
