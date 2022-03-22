@@ -28,4 +28,8 @@ This is a web application that allows users to view posted projects and their de
      python3 -m venv virtual - source virtual/bin/activate
 
 #### Install Dependencies
+    
+    pip install -r requirements.txt
+
+#### Set-Up Database
 
