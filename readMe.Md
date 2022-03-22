@@ -37,4 +37,7 @@ Set-up your database User, Password,Host then Migrate
       
       python manage,py makemigrations awardsapp
 
-      
+#### Now Migrate
+     
+     python manage.py migrate
+     
