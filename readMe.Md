@@ -33,3 +33,8 @@ This is a web application that allows users to view posted projects and their de
 
 #### Set-Up Database
 
+Set-up your database User, Password,Host then Migrate
+      
+      python manage,py makemigrations awardsapp
+
+      
