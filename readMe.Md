@@ -57,5 +57,9 @@ Open the application on your browser
   * Django
   * Heroku
 
-## K nown Bugs
+## Known Bugs
  There are no known bugs
+
+## Contact Details
+
+  For more details,comments or 
