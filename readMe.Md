@@ -51,3 +51,4 @@ Set-up your database User, Password,Host then Migrate
 
 Open the application on your browser
 
+## Technologies Used
